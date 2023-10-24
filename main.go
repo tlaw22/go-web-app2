@@ -8,7 +8,7 @@ import (
 
 const portNumber = ":8080"
 
-// Home is the homepage handler
+// Home is the homepage handler .
 func Home(w http.ResponseWriter, r *http.Request) {
 
 }
